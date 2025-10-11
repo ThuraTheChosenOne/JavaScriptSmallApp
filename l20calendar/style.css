@@ -108,12 +108,13 @@ body{
   padding: 3px;
   margin: 3px;
 
+  float: left;
+
 
 }
 
-.caldays .days .day.blank{
+.caldays.days .day.blank{
   background-color: #fff;
   border: none;
 }
 
-12APRIL 30:34
